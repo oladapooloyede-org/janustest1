@@ -5,5 +5,5 @@ metadata:
   annotations:
     github.com/project-slug: utherp0/janustest1
 spec:
-  type: other
-  lifecycle: unknown
+  type: demonstration
+  lifecycle: demoonly
